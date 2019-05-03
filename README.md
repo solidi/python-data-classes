@@ -1,0 +1,1 @@
+Tutorials on Python's data classes found here https://realpython.com/python-data-classes/ and https://hackernoon.com/a-brief-tour-of-python-3-7-data-classes-22ee5e046517
